@@ -1,5 +1,5 @@
 # ITMS-54
 
-[![](https://img.shields.io/badge/ITMS--54-%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%A1%86%E6%9E%B6%E7%A0%94%E7%A9%B6-blue?logo=jira)](https://zerozero.atlassian.net/browse/ITMS-54)
+[![](https://img.shields.io/badge/JIRA-ITMS--162%20Ionic%20%E7%B7%A8%E8%AD%AF%E6%88%90%E6%AD%A3%E5%BC%8F%E7%99%BC%E5%B8%83%E7%9A%84%20APK-blue?logo=jira)](https://zerozero.atlassian.net/browse/ITMS-162)
 
 @Tzuyang-Dafon 的跨平台框架研究
